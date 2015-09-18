@@ -1,4 +1,15 @@
-_drafts/
+## Jekyll
+.sass-cache/
 _site/
-.DS_Store
-*.swp
+
+## Tex
+*.aux
+*.log
+*.out
+*.synctex.gz
+
+## Sublime
+*.sublime-workspace
+
+## Dirs
+sandbox/
